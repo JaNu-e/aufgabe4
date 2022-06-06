@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">aufgabe4</string>
+    <string name="data_pfad">Pfad</string>
+    <string name="input_pfad">Input Pfad</string>
+    <string name="search">Suchen</string>
+    <string name="pfad">/storage/emulated/0/</string>
+</resources>
